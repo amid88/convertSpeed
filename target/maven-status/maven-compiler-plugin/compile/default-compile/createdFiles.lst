@@ -1,0 +1,7 @@
+net/webservicex/package-info.class
+net/webservicex/ConvertSpeed.class
+net/webservicex/ObjectFactory.class
+net/webservicex/ConvertSpeedsSoap.class
+net/webservicex/ConvertSpeeds.class
+net/webservicex/ConvertSpeedResponse.class
+net/webservicex/SpeedUnit.class
